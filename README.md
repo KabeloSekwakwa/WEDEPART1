@@ -50,7 +50,7 @@ OpenAI. (n.d.). ChatGPT (GPT-4o). Retrieved May 22, 2026, from https://chatgpt.c
 w3schools.com. (n.d.). Retrieved May 23, 2026, from W3Schools: https://www.w3schools.com/
 
 Changelog
-Comments were added
+Comments were added to the html and css style
 Css is added to the code
 Timeline has changed
 References were updated
