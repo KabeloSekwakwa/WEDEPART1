@@ -25,12 +25,12 @@ Desired Functionality:
 •	Customer Review & Rating System.
 •	Search bar with real-time auto-suggestions.
 
-Milestone 1: Requirement gathering, research, and proposal finalisation (Week 1–2)
-Milestone 2: Low & High-Fidelity Wireframes, UI/UX Design Approval (Week 3–4)
-Milestone 3: Development (HTML, CSS, JS) (Week 5–7)
-Milestone 4: Product integration, Payment Gateway & Shipping Setup (Week 8)
-Milestone 5: Testing (Cross-browser, mobile responsiveness, payment testing) (Week 9)
-Milestone 6: Deployment, Final Submission, and Official Launch (Week 10)
+Milestone 1: Requirement gathering, research, and proposal finalisation (Week 1)
+Milestone 2: Low & High-Fidelity Wireframes, UI/UX Design Approval (Week 2)
+Milestone 3: Development (HTML, CSS, JS) (Week 3)
+Milestone 4: Product integration, Payment Gateway & Shipping Setup (Week 3)
+Milestone 5: Testing (Cross-browser, mobile responsiveness, payment testing) (Week 4)
+Milestone 6: Deployment, Final Submission, and Official Launch (Week 4-6)
 
 Hosting & Domain Requirements:
 •	Domain: www.kaysfragrance.co.za 
@@ -48,4 +48,10 @@ The Independent Institute of Education (IIE). 2026.
 Google. (2026, May 22). Gemini (3.5 Flash). Retrieved from https://gemini.google.com
 OpenAI. (n.d.). ChatGPT (GPT-4o). Retrieved May 22, 2026, from https://chatgpt.com
 w3schools.com. (n.d.). Retrieved May 23, 2026, from W3Schools: https://www.w3schools.com/
+
+Changelog
+Comments were added
+Css is added to the code
+Timeline has changed
+References were updated
 
